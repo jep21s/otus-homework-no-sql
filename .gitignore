@@ -22,3 +22,4 @@ out/
 ### Mac OS ###
 .DS_Store
 /.idea/
+/mongo-1/.venv/
