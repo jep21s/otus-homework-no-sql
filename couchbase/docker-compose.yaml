@@ -1,0 +1,59 @@
+services:
+  couchbase-node1:
+    image: couchbase:latest
+    container_name: couchbase-node1
+    ports:
+      - "8091-8096:8091-8096"
+      - "11210:11210"
+      - "11211:11211"
+    volumes:
+      - node1_data:/opt/couchbase/var
+    networks:
+      couchbase-net:
+        ipv4_address: 172.20.0.2
+
+  couchbase-node2:
+    image: couchbase:latest
+    container_name: couchbase-node2
+    volumes:
+      - node2_data:/opt/couchbase/var
+    networks:
+      couchbase-net:
+        ipv4_address: 172.20.0.3
+    depends_on:
+      - couchbase-node1
+
+  couchbase-node3:
+    image: couchbase:latest
+    container_name: couchbase-node3
+    volumes:
+      - node3_data:/opt/couchbase/var
+    networks:
+      couchbase-net:
+        ipv4_address: 172.20.0.4
+    depends_on:
+      - couchbase-node1
+
+  client:
+    build: .
+    container_name: couchbase-client
+    volumes:
+      - ./:/app
+    networks:
+      - couchbase-net
+    depends_on:
+      - couchbase-node1
+    profiles:
+      - client
+
+volumes:
+  node1_data:
+  node2_data:
+  node3_data:
+
+networks:
+  couchbase-net:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16
