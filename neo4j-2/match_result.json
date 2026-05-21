@@ -1,0 +1,786 @@
+[
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Франция",
+    "from_destination": "Мон Сен Мишель",
+    "from_city": "Рен",
+    "ground_route": [
+      "Рен",
+      "Париж",
+      "Барселона",
+      "Мадрид",
+      "Севилья"
+    ],
+    "route_details": [
+      "train (350 км)",
+      "train (1030 км)",
+      "train (620 км)",
+      "train (470 км)"
+    ],
+    "total_distance_km": 2470,
+    "hops": 4,
+    "to_city": "Севилья",
+    "to_destination": "Севилья",
+    "to_country": "Испания"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Франция",
+    "from_destination": "Мон Сен Мишель",
+    "from_city": "Рен",
+    "ground_route": [
+      "Рен",
+      "Париж",
+      "Барселона",
+      "Мадрид",
+      "Севилья"
+    ],
+    "route_details": [
+      "train (350 км)",
+      "train (1030 км)",
+      "train (620 км)",
+      "train (470 км)"
+    ],
+    "total_distance_km": 2470,
+    "hops": 4,
+    "to_city": "Севилья",
+    "to_destination": "Севилья",
+    "to_country": "Испания"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Франция",
+    "from_destination": "Мон Сен Мишель",
+    "from_city": "Рен",
+    "ground_route": [
+      "Рен",
+      "Париж",
+      "Барселона",
+      "Мадрид",
+      "Севилья"
+    ],
+    "route_details": [
+      "train (350 км)",
+      "train (1030 км)",
+      "train (620 км)",
+      "train (470 км)"
+    ],
+    "total_distance_km": 2470,
+    "hops": 4,
+    "to_city": "Севилья",
+    "to_destination": "Севилья",
+    "to_country": "Испания"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Франция",
+    "from_destination": "Мон Сен Мишель",
+    "from_city": "Рен",
+    "ground_route": [
+      "Рен",
+      "Париж",
+      "Барселона",
+      "Мадрид",
+      "Севилья"
+    ],
+    "route_details": [
+      "train (350 км)",
+      "train (1030 км)",
+      "train (620 км)",
+      "train (470 км)"
+    ],
+    "total_distance_km": 2470,
+    "hops": 4,
+    "to_city": "Севилья",
+    "to_destination": "Севилья",
+    "to_country": "Испания"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Испания",
+    "from_destination": "Севилья",
+    "from_city": "Севилья",
+    "ground_route": [
+      "Севилья",
+      "Мадрид",
+      "Барселона",
+      "Париж",
+      "Рен"
+    ],
+    "route_details": [
+      "train (470 км)",
+      "train (620 км)",
+      "train (1030 км)",
+      "train (350 км)"
+    ],
+    "total_distance_km": 2470,
+    "hops": 4,
+    "to_city": "Рен",
+    "to_destination": "Мон Сен Мишель",
+    "to_country": "Франция"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Испания",
+    "from_destination": "Севилья",
+    "from_city": "Севилья",
+    "ground_route": [
+      "Севилья",
+      "Мадрид",
+      "Барселона",
+      "Париж",
+      "Рен"
+    ],
+    "route_details": [
+      "train (470 км)",
+      "train (620 км)",
+      "train (1030 км)",
+      "train (350 км)"
+    ],
+    "total_distance_km": 2470,
+    "hops": 4,
+    "to_city": "Рен",
+    "to_destination": "Мон Сен Мишель",
+    "to_country": "Франция"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Испания",
+    "from_destination": "Севилья",
+    "from_city": "Севилья",
+    "ground_route": [
+      "Севилья",
+      "Мадрид",
+      "Барселона",
+      "Париж",
+      "Рен"
+    ],
+    "route_details": [
+      "train (470 км)",
+      "train (620 км)",
+      "train (1030 км)",
+      "train (350 км)"
+    ],
+    "total_distance_km": 2470,
+    "hops": 4,
+    "to_city": "Рен",
+    "to_destination": "Мон Сен Мишель",
+    "to_country": "Франция"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Испания",
+    "from_destination": "Севилья",
+    "from_city": "Севилья",
+    "ground_route": [
+      "Севилья",
+      "Мадрид",
+      "Барселона",
+      "Париж",
+      "Рен"
+    ],
+    "route_details": [
+      "train (470 км)",
+      "train (620 км)",
+      "train (1030 км)",
+      "train (350 км)"
+    ],
+    "total_distance_km": 2470,
+    "hops": 4,
+    "to_city": "Рен",
+    "to_destination": "Мон Сен Мишель",
+    "to_country": "Франция"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Италия",
+    "from_destination": "Амальфитанское побережье",
+    "from_city": "Неаполь",
+    "ground_route": [
+      "Неаполь",
+      "Рим",
+      "Мадрид",
+      "Севилья"
+    ],
+    "route_details": [
+      "train (220 км)",
+      "train (1960 км)",
+      "train (470 км)"
+    ],
+    "total_distance_km": 2650,
+    "hops": 3,
+    "to_city": "Севилья",
+    "to_destination": "Севилья",
+    "to_country": "Испания"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Италия",
+    "from_destination": "Амальфитанское побережье",
+    "from_city": "Неаполь",
+    "ground_route": [
+      "Неаполь",
+      "Рим",
+      "Мадрид",
+      "Севилья"
+    ],
+    "route_details": [
+      "train (220 км)",
+      "train (1960 км)",
+      "train (470 км)"
+    ],
+    "total_distance_km": 2650,
+    "hops": 3,
+    "to_city": "Севилья",
+    "to_destination": "Севилья",
+    "to_country": "Испания"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Италия",
+    "from_destination": "Амальфитанское побережье",
+    "from_city": "Неаполь",
+    "ground_route": [
+      "Неаполь",
+      "Рим",
+      "Мадрид",
+      "Севилья"
+    ],
+    "route_details": [
+      "train (220 км)",
+      "train (1960 км)",
+      "train (470 км)"
+    ],
+    "total_distance_km": 2650,
+    "hops": 3,
+    "to_city": "Севилья",
+    "to_destination": "Севилья",
+    "to_country": "Испания"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Италия",
+    "from_destination": "Амальфитанское побережье",
+    "from_city": "Неаполь",
+    "ground_route": [
+      "Неаполь",
+      "Рим",
+      "Мадрид",
+      "Севилья"
+    ],
+    "route_details": [
+      "train (220 км)",
+      "train (1960 км)",
+      "train (470 км)"
+    ],
+    "total_distance_km": 2650,
+    "hops": 3,
+    "to_city": "Севилья",
+    "to_destination": "Севилья",
+    "to_country": "Испания"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Испания",
+    "from_destination": "Севилья",
+    "from_city": "Севилья",
+    "ground_route": [
+      "Севилья",
+      "Мадрид",
+      "Рим",
+      "Неаполь"
+    ],
+    "route_details": [
+      "train (470 км)",
+      "train (1960 км)",
+      "train (220 км)"
+    ],
+    "total_distance_km": 2650,
+    "hops": 3,
+    "to_city": "Неаполь",
+    "to_destination": "Амальфитанское побережье",
+    "to_country": "Италия"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Испания",
+    "from_destination": "Севилья",
+    "from_city": "Севилья",
+    "ground_route": [
+      "Севилья",
+      "Мадрид",
+      "Рим",
+      "Неаполь"
+    ],
+    "route_details": [
+      "train (470 км)",
+      "train (1960 км)",
+      "train (220 км)"
+    ],
+    "total_distance_km": 2650,
+    "hops": 3,
+    "to_city": "Неаполь",
+    "to_destination": "Амальфитанское побережье",
+    "to_country": "Италия"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Испания",
+    "from_destination": "Севилья",
+    "from_city": "Севилья",
+    "ground_route": [
+      "Севилья",
+      "Мадрид",
+      "Рим",
+      "Неаполь"
+    ],
+    "route_details": [
+      "train (470 км)",
+      "train (1960 км)",
+      "train (220 км)"
+    ],
+    "total_distance_km": 2650,
+    "hops": 3,
+    "to_city": "Неаполь",
+    "to_destination": "Амальфитанское побережье",
+    "to_country": "Италия"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Испания",
+    "from_destination": "Севилья",
+    "from_city": "Севилья",
+    "ground_route": [
+      "Севилья",
+      "Мадрид",
+      "Рим",
+      "Неаполь"
+    ],
+    "route_details": [
+      "train (470 км)",
+      "train (1960 км)",
+      "train (220 км)"
+    ],
+    "total_distance_km": 2650,
+    "hops": 3,
+    "to_city": "Неаполь",
+    "to_destination": "Амальфитанское побережье",
+    "to_country": "Италия"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Италия",
+    "from_destination": "Амальфитанское побережье",
+    "from_city": "Неаполь",
+    "ground_route": [
+      "Неаполь",
+      "Рим",
+      "Мадрид",
+      "Барселона",
+      "Мадрид",
+      "Севилья"
+    ],
+    "route_details": [
+      "train (220 км)",
+      "train (1960 км)",
+      "train (620 км)",
+      "train (620 км)",
+      "train (470 км)"
+    ],
+    "total_distance_km": 3890,
+    "hops": 5,
+    "to_city": "Севилья",
+    "to_destination": "Севилья",
+    "to_country": "Испания"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Италия",
+    "from_destination": "Амальфитанское побережье",
+    "from_city": "Неаполь",
+    "ground_route": [
+      "Неаполь",
+      "Рим",
+      "Мадрид",
+      "Барселона",
+      "Мадрид",
+      "Севилья"
+    ],
+    "route_details": [
+      "train (220 км)",
+      "train (1960 км)",
+      "train (620 км)",
+      "train (620 км)",
+      "train (470 км)"
+    ],
+    "total_distance_km": 3890,
+    "hops": 5,
+    "to_city": "Севилья",
+    "to_destination": "Севилья",
+    "to_country": "Испания"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Италия",
+    "from_destination": "Амальфитанское побережье",
+    "from_city": "Неаполь",
+    "ground_route": [
+      "Неаполь",
+      "Рим",
+      "Мадрид",
+      "Барселона",
+      "Мадрид",
+      "Севилья"
+    ],
+    "route_details": [
+      "train (220 км)",
+      "train (1960 км)",
+      "train (620 км)",
+      "train (620 км)",
+      "train (470 км)"
+    ],
+    "total_distance_km": 3890,
+    "hops": 5,
+    "to_city": "Севилья",
+    "to_destination": "Севилья",
+    "to_country": "Испания"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Италия",
+    "from_destination": "Амальфитанское побережье",
+    "from_city": "Неаполь",
+    "ground_route": [
+      "Неаполь",
+      "Рим",
+      "Мадрид",
+      "Барселона",
+      "Мадрид",
+      "Севилья"
+    ],
+    "route_details": [
+      "train (220 км)",
+      "train (1960 км)",
+      "train (620 км)",
+      "train (620 км)",
+      "train (470 км)"
+    ],
+    "total_distance_km": 3890,
+    "hops": 5,
+    "to_city": "Севилья",
+    "to_destination": "Севилья",
+    "to_country": "Испания"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Испания",
+    "from_destination": "Севилья",
+    "from_city": "Севилья",
+    "ground_route": [
+      "Севилья",
+      "Мадрид",
+      "Барселона",
+      "Мадрид",
+      "Рим",
+      "Неаполь"
+    ],
+    "route_details": [
+      "train (470 км)",
+      "train (620 км)",
+      "train (620 км)",
+      "train (1960 км)",
+      "train (220 км)"
+    ],
+    "total_distance_km": 3890,
+    "hops": 5,
+    "to_city": "Неаполь",
+    "to_destination": "Амальфитанское побережье",
+    "to_country": "Италия"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Испания",
+    "from_destination": "Севилья",
+    "from_city": "Севилья",
+    "ground_route": [
+      "Севилья",
+      "Мадрид",
+      "Барселона",
+      "Мадрид",
+      "Рим",
+      "Неаполь"
+    ],
+    "route_details": [
+      "train (470 км)",
+      "train (620 км)",
+      "train (620 км)",
+      "train (1960 км)",
+      "train (220 км)"
+    ],
+    "total_distance_km": 3890,
+    "hops": 5,
+    "to_city": "Неаполь",
+    "to_destination": "Амальфитанское побережье",
+    "to_country": "Италия"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Испания",
+    "from_destination": "Севилья",
+    "from_city": "Севилья",
+    "ground_route": [
+      "Севилья",
+      "Мадрид",
+      "Барселона",
+      "Мадрид",
+      "Рим",
+      "Неаполь"
+    ],
+    "route_details": [
+      "train (470 км)",
+      "train (620 км)",
+      "train (620 км)",
+      "train (1960 км)",
+      "train (220 км)"
+    ],
+    "total_distance_km": 3890,
+    "hops": 5,
+    "to_city": "Неаполь",
+    "to_destination": "Амальфитанское побережье",
+    "to_country": "Италия"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Испания",
+    "from_destination": "Севилья",
+    "from_city": "Севилья",
+    "ground_route": [
+      "Севилья",
+      "Мадрид",
+      "Барселона",
+      "Мадрид",
+      "Рим",
+      "Неаполь"
+    ],
+    "route_details": [
+      "train (470 км)",
+      "train (620 км)",
+      "train (620 км)",
+      "train (1960 км)",
+      "train (220 км)"
+    ],
+    "total_distance_km": 3890,
+    "hops": 5,
+    "to_city": "Неаполь",
+    "to_destination": "Амальфитанское побережье",
+    "to_country": "Италия"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Франция",
+    "from_destination": "Мон Сен Мишель",
+    "from_city": "Рен",
+    "ground_route": [
+      "Рен",
+      "Париж",
+      "Барселона",
+      "Мадрид",
+      "Рим",
+      "Неаполь"
+    ],
+    "route_details": [
+      "train (350 км)",
+      "train (1030 км)",
+      "train (620 км)",
+      "train (1960 км)",
+      "train (220 км)"
+    ],
+    "total_distance_km": 4180,
+    "hops": 5,
+    "to_city": "Неаполь",
+    "to_destination": "Амальфитанское побережье",
+    "to_country": "Италия"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Франция",
+    "from_destination": "Мон Сен Мишель",
+    "from_city": "Рен",
+    "ground_route": [
+      "Рен",
+      "Париж",
+      "Барселона",
+      "Мадрид",
+      "Рим",
+      "Неаполь"
+    ],
+    "route_details": [
+      "train (350 км)",
+      "train (1030 км)",
+      "train (620 км)",
+      "train (1960 км)",
+      "train (220 км)"
+    ],
+    "total_distance_km": 4180,
+    "hops": 5,
+    "to_city": "Неаполь",
+    "to_destination": "Амальфитанское побережье",
+    "to_country": "Италия"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Франция",
+    "from_destination": "Мон Сен Мишель",
+    "from_city": "Рен",
+    "ground_route": [
+      "Рен",
+      "Париж",
+      "Барселона",
+      "Мадрид",
+      "Рим",
+      "Неаполь"
+    ],
+    "route_details": [
+      "train (350 км)",
+      "train (1030 км)",
+      "train (620 км)",
+      "train (1960 км)",
+      "train (220 км)"
+    ],
+    "total_distance_km": 4180,
+    "hops": 5,
+    "to_city": "Неаполь",
+    "to_destination": "Амальфитанское побережье",
+    "to_country": "Италия"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Франция",
+    "from_destination": "Мон Сен Мишель",
+    "from_city": "Рен",
+    "ground_route": [
+      "Рен",
+      "Париж",
+      "Барселона",
+      "Мадрид",
+      "Рим",
+      "Неаполь"
+    ],
+    "route_details": [
+      "train (350 км)",
+      "train (1030 км)",
+      "train (620 км)",
+      "train (1960 км)",
+      "train (220 км)"
+    ],
+    "total_distance_km": 4180,
+    "hops": 5,
+    "to_city": "Неаполь",
+    "to_destination": "Амальфитанское побережье",
+    "to_country": "Италия"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Италия",
+    "from_destination": "Амальфитанское побережье",
+    "from_city": "Неаполь",
+    "ground_route": [
+      "Неаполь",
+      "Рим",
+      "Мадрид",
+      "Барселона",
+      "Париж",
+      "Рен"
+    ],
+    "route_details": [
+      "train (220 км)",
+      "train (1960 км)",
+      "train (620 км)",
+      "train (1030 км)",
+      "train (350 км)"
+    ],
+    "total_distance_km": 4180,
+    "hops": 5,
+    "to_city": "Рен",
+    "to_destination": "Мон Сен Мишель",
+    "to_country": "Франция"
+  },
+  {
+    "tour_operator": "EuroRest",
+    "from_country": "Италия",
+    "from_destination": "Амальфитанское побережье",
+    "from_city": "Неаполь",
+    "ground_route": [
+      "Неаполь",
+      "Рим",
+      "Мадрид",
+      "Барселона",
+      "Париж",
+      "Рен"
+    ],
+    "route_details": [
+      "train (220 км)",
+      "train (1960 км)",
+      "train (620 км)",
+      "train (1030 км)",
+      "train (350 км)"
+    ],
+    "total_distance_km": 4180,
+    "hops": 5,
+    "to_city": "Рен",
+    "to_destination": "Мон Сен Мишель",
+    "to_country": "Франция"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Италия",
+    "from_destination": "Амальфитанское побережье",
+    "from_city": "Неаполь",
+    "ground_route": [
+      "Неаполь",
+      "Рим",
+      "Мадрид",
+      "Барселона",
+      "Париж",
+      "Рен"
+    ],
+    "route_details": [
+      "train (220 км)",
+      "train (1960 км)",
+      "train (620 км)",
+      "train (1030 км)",
+      "train (350 км)"
+    ],
+    "total_distance_km": 4180,
+    "hops": 5,
+    "to_city": "Рен",
+    "to_destination": "Мон Сен Мишель",
+    "to_country": "Франция"
+  },
+  {
+    "tour_operator": "GlobalTravel",
+    "from_country": "Италия",
+    "from_destination": "Амальфитанское побережье",
+    "from_city": "Неаполь",
+    "ground_route": [
+      "Неаполь",
+      "Рим",
+      "Мадрид",
+      "Барселона",
+      "Париж",
+      "Рен"
+    ],
+    "route_details": [
+      "train (220 км)",
+      "train (1960 км)",
+      "train (620 км)",
+      "train (1030 км)",
+      "train (350 км)"
+    ],
+    "total_distance_km": 4180,
+    "hops": 5,
+    "to_city": "Рен",
+    "to_destination": "Мон Сен Мишель",
+    "to_country": "Франция"
+  }
+]
