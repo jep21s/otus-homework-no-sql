@@ -1,0 +1,14 @@
+services:
+  opensearch:
+    image: opensearchproject/opensearch:2
+    container_name: opensearch
+    ports:
+      - "9200:9200"
+    environment:
+      - discovery.type=single-node
+      - DISABLE_SECURITY_PLUGIN=true
+    volumes:
+      - opensearch_data:/usr/share/opensearch/data
+
+volumes:
+  opensearch_data:
