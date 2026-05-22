@@ -25,3 +25,4 @@ out/
 /mongo-1/.venv/
 /couchbase/.venv/
 /redis/.venv/
+/etcd/.venv/
