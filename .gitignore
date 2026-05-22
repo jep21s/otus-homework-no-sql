@@ -24,3 +24,4 @@ out/
 /.idea/
 /mongo-1/.venv/
 /couchbase/.venv/
+/redis/.venv/
